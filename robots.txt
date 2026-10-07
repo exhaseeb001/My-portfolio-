@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/admin/
+Disallow: /api/messages
+
+Sitemap: https://haseebzia.com/sitemap.xml
